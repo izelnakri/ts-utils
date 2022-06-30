@@ -1,0 +1,12 @@
+{
+  "name": "ts-utils",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Immutable util modules/functions for default data structures in TS/JS. Inspired from Elixir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
